@@ -3,4 +3,9 @@ background-color: blue;
 
 }
 h1{ background-color: aqua;
-font-size: 20px;}
+font-size: 20px;
+font-family: 'Courier New', Courier, monospace;
+border: radius 20px; 
+
+
+}
