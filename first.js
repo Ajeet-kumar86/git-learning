@@ -7,3 +7,7 @@ function updateBalence(value){
 console.log(" Helloji");
 const c =20+10;
 console.timeLog(c);
+function balencechecker(){
+    //
+    console. log(" update");
+}
