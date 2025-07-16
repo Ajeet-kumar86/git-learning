@@ -4,3 +4,4 @@ let balence =420;
 function updateBalence(value){
     balence+=value;
 }
+console.log(" Helloji");
