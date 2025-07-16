@@ -5,3 +5,5 @@ function updateBalence(value){
     balence+=value;
 }
 console.log(" Helloji");
+const c =20+10;
+console.timeLog(c);
