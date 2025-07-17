@@ -12,3 +12,5 @@ function balencechecker(){
     console. log(" update");
 }
 console.log(" latest update");
+//i am fixing some bug
+console.log("bug fixed");
